@@ -23,7 +23,7 @@
   },
   "dependencies": {
     "@linear/sdk": "^37.0.0",
-    "@modelcontextprotocol/sdk": "1.1.0",
+    "@modelcontextprotocol/sdk": "1.1.1",
     "axios": "^1.7.9",
     "dotenv": "^16.4.7"
   },
